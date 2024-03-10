@@ -17,12 +17,16 @@ Welcome to the ERP (Enterprise Resource Planning) system built using ReactJS. Th
 ### Orders Management
 
 - Shows a list of orders with details like order ID, customer name, order date, and status using mock data.
-- It allows viewing of order details, updating the order status, and deletion of orders.
+-  allows viewing of order details, updating the order status, and deletion of orders.
 
 ### Orders Calendar View
 
 - Implements a calendar view displaying orders on their expected delivery dates.
 - Provides the ability to click on a date to view all orders due for delivery that day.
+
+
+### Visit The Live Site
+- [Click Here](https://erp-system-drab.vercel.app/)
 
 ## Installation
 
