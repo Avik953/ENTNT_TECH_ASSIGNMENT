@@ -1,0 +1,65 @@
+/* rbc-header {
+  background-color: #1c19db;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+  display: flex;
+}
+
+.rbc-header td {
+  text-align: center;
+  flex: 1; 
+}
+
+.rbc-month-view {
+  border: 1px solid #ddd;
+  background-color: #fff; 
+}
+
+.rbc-month-view .rbc-month {
+  padding: 15px;
+}
+
+.rbc-month-view .rbc-weekday {
+  font-weight: bold;
+}
+
+.rbc-event {
+  background-color: greenyellow;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  border: 1px solid transparent; 
+}
+
+.rbc-event.pending {
+  background-color: greenyellow;
+  border-color: #ddd;
+}
+
+.rbc-event.completed {
+  background-color: #d4f5d6;
+  border-color: #9ccc9c;
+}
+
+.rbc-event.unknown {
+  background-color: yellow;
+}
+
+.rbc-day-slot {
+  border-top: none; 
+  padding: 5px;
+}
+
+
+@media (max-width: 768px) {
+  .rbc-header td {
+    font-size: 0.8rem; 
+  .rbc-month-view .rbc-month {
+    padding: 10px; 
+  }
+}
+} */
+
+
+        
+  
