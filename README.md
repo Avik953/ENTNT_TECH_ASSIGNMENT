@@ -31,7 +31,7 @@ Follow the steps below to install and run the ERP system locally:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/erp-system.git
+   git clone https://github.com/Avik953/ENTNT_TECH_ASSIGNMENT.git
    ```
 
 2. Navigate to the project directory:
@@ -55,13 +55,3 @@ npm start
 ```
 
 Visit `http://localhost:3000` in your web browser to access the ERP system.
-
-## Mock Data
-
-The system uses mock data for products and orders to simulate real-world scenarios. You can customize this data in the respective files within the `src/data` directory.
-
-## Contributing
-
-Feel free to contribute to the project by submitting issues or pull requests. Your feedback and contributions are highly appreciated.
-
-Happy managing your resources with our ERP system!
